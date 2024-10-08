@@ -1,0 +1,91 @@
+.container{
+    width:850px;
+    height:530px;
+    margin: 40px auto;
+    border-radius: 5px;
+    display:flex;
+    box-shadow: 0px 0px 5px black;
+}
+.block1{
+    width:425px;
+    height:530px;
+    background-color:rgb(255, 91, 70);
+    
+}
+
+
+.block2{
+    width:425px;
+    height:530px;
+    background-color: whitesmoke;
+}
+
+.heading{
+    color:white;
+    text-align: center;
+    margin-top:150px;
+    font-weight: 700;
+}
+.block1 p{
+    color:white;
+    text-align: center;
+    opacity:0.9;
+    margin-top: 5px;
+}
+
+.button{
+display:flex;
+justify-content: center;
+align-items: center;
+margin-top:20px ;
+}
+button{
+    padding: 5px 30px;
+    color:white;
+    background-color:rgb(255, 91, 70) ;
+    border-radius: 20px;
+   
+}
+.block2-heading{
+    color: black;
+    text-align: center;
+    margin-top:80px ;
+    font-weight: 700;
+}
+.icons{
+    margin-top: 20px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+.icons i{
+    font-size: 30px;
+    color: black;
+    padding-right: 20px;
+}
+.block2-pag{
+    text-align: center;
+    opacity: 5;
+    margin-top: 20px;
+}
+.form{
+    margin-top: 3px;
+}
+.form input{
+    display:block;
+    margin-top: 20px;
+    width:290px;
+    height: 40px;
+    margin-left: 60px;
+    background-color: rgba(128, 128, 128, 0.356);
+    border-radius: none;
+    padding-left: 10px;
+}
+.signup{
+    padding: 5px 30px;
+    color:white;
+    background-color:rgb(255, 91, 70) ;
+    border-radius: 20px;
+    margin:10px 100px 100px 150px; 
+}
+
